@@ -1,3 +1,14 @@
 # Project exclude paths
 /project/target/
 /target/
+.idea/$CACHE_FILE$
+.idea/.gitignore
+.idea/codeStyles/
+.idea/libraries/
+.idea/misc.xml
+.idea/modules.xml
+.idea/modules/
+.idea/sbt.xml
+.idea/scala_compiler.xml
+.idea/uiDesigner.xml
+.idea/vcs.xml
